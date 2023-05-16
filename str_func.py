@@ -7,8 +7,9 @@ def title_txt(txt):
 
 
 def upper_txt(txt):
-    """Выводит все первые буквы слов заглавнымми"""
+    """Выводит все первые буквы слов заглавными"""
     print(txt.upper())
 
 upper_txt(txt)
+
 title_txt(txt)
